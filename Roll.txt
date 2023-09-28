@@ -12,7 +12,7 @@ kennedy
 "sahn jinn uh"
 "soo duh car"
 "pruh teek"
-"sahn jeed"
+[x] "sahn jeed"
 "nar ender"
 "ah lee kyuh"
 "nahn d'knee"
